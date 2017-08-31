@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/surprise_man.iml" filepath="$PROJECT_DIR$/.idea/modules/surprise_man.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/surprise_man_main.iml" filepath="$PROJECT_DIR$/.idea/modules/surprise_man_main.iml" group="surprise_man" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/surprise_man_test.iml" filepath="$PROJECT_DIR$/.idea/modules/surprise_man_test.iml" group="surprise_man" />
+    </modules>
+  </component>
+</project>
